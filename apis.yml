@@ -1,31 +1,44 @@
 aid: mia-platform
 name: Mia-Platform
 description: >-
-  Harmonize infrastructure, applications and data for intelligent engineering at
-  scale 
+  Mia-Platform is an Internal Developer Platform (IDP) that harmonizes
+  infrastructure, applications, and data for intelligent engineering at scale.
+  It provides an API-first platform for building and managing microservices
+  and cloud-native applications.
 type: Index
-position: Consumer
-access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - API
-created: '2025-08-19'
-modified: '2025-08-19'
+  - Developer Platform
+  - IDP
+  - Microservices
+  - Cloud Native
+  - DevOps
 url: >-
   https://raw.githubusercontent.com/api-evangelist/mia-platform/refs/heads/main/apis.yml
+created: '2025-08-19'
+modified: '2026-03-16'
 specificationVersion: '0.19'
 apis:
   - aid: mia-platform:mia-platform
     name: Mia-Platform
     description: >-
-      Harmonize infrastructure, applications and data for intelligent
-      engineering at scale 
-    humanURL: ' https://mia-platform.eu/'
+      Mia-Platform is an Internal Developer Platform that harmonizes
+      infrastructure, applications, and data for intelligent engineering at
+      scale, enabling teams to build and deploy cloud-native applications.
+    humanURL: https://mia-platform.eu/
     tags:
-      - API
+      - Developer Platform
+      - IDP
     properties:
       - type: Documentation
-        url: ' https://mia-platform.eu/'
+        url: https://docs.mia-platform.eu/
+common:
+  - type: Website
+    url: https://mia-platform.eu/
+  - type: Documentation
+    url: https://docs.mia-platform.eu/
+  - type: GitHub Organization
+    url: https://github.com/mia-platform
 maintainers:
   - FN: Kin Lane
-    email: info@apievangelist.com
+    email: kin@apievangelist.com
