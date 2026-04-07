@@ -8,11 +8,11 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
+  - Cloud Native
   - Developer Platform
+  - DevOps
   - IDP
   - Microservices
-  - Cloud Native
-  - DevOps
 url: >-
   https://raw.githubusercontent.com/api-evangelist/mia-platform/refs/heads/main/apis.yml
 created: '2025-08-19'
