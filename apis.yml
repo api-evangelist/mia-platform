@@ -37,7 +37,7 @@ common:
     url: https://mia-platform.eu/
   - type: Documentation
     url: https://docs.mia-platform.eu/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/mia-platform
 maintainers:
   - FN: Kin Lane
