@@ -16,7 +16,7 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/mia-platform/refs/heads/main/apis.yml
 created: '2025-08-19'
-modified: '2026-04-28'
+modified: '2026-05-19'
 specificationVersion: '0.19'
 apis:
   - aid: mia-platform:mia-platform
@@ -39,6 +39,9 @@ common:
     url: https://docs.mia-platform.eu/
   - type: GitHubOrganization
     url: https://github.com/mia-platform
+  - name: MCP Server
+    url: https://github.com/mia-platform/console-mcp-server
+    type: MCPServer
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
