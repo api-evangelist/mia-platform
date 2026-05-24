@@ -44,6 +44,8 @@ common:
   - name: MCP Server
     url: https://github.com/mia-platform/console-mcp-server
     type: MCPServer
+  - type: LLMsTxt
+    url: https://docs.mia-platform.eu/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
