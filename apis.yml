@@ -33,6 +33,8 @@ apis:
       - type: Documentation
         url: https://docs.mia-platform.eu/
 common:
+  - type: DomainSecurity
+    url: security/mia-platform-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/mia-platform
   - type: Website
@@ -46,6 +48,8 @@ common:
     type: MCPServer
   - type: LlmsText
     url: https://docs.mia-platform.eu/llms.txt
+  - url: https://mia-platform.eu/blog/feed/
+    type: BlogRSS
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
