@@ -1,0 +1,14 @@
+{
+  "repo": "mia-platform",
+  "feeds": [
+    {
+      "source": "https://mia-platform.eu/blog/feed/",
+      "feed_url": "https://mia-platform.eu/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 20
+}
