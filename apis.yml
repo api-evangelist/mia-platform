@@ -34,14 +34,14 @@ tags:
   - Cloud-Native
   - Developer Platform
   - DevOps
-  - IDP
   - Microservices
+  - Internal Developer Platform
 tags_raw:
   - Cloud Native
   - Developer Platform
   - DevOps
-  - IDP
   - Microservices
+  - Internal Developer Platform
 url: >-
   https://raw.githubusercontent.com/api-evangelist/mia-platform/refs/heads/main/apis.yml
 created: '2025-08-19'
@@ -82,3 +82,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- IDP
