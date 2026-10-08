@@ -62,6 +62,12 @@ apis:
       - type: Documentation
         url: https://docs.mia-platform.eu/
 common:
+  - type: Plans
+    url: plans/mia-platform-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/mia-platform-rate-limits.yml
+  - type: FinOps
+    url: finops/mia-platform-finops.yml
   - type: DomainSecurity
     url: security/mia-platform-domain-security.yml
   - type: LinkedIn
