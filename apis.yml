@@ -57,6 +57,9 @@ apis:
     humanURL: https://mia-platform.eu/
     tags:
       - Developer Platform
+      - Intelligent Document Processing
+    tags_raw:
+      - Developer Platform
       - IDP
     properties:
       - type: Documentation
